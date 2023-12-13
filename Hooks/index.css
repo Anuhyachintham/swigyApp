@@ -1,0 +1,35 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid black;
+}
+.img-logo{
+    height:80px;
+    width:90px;
+}
+
+.Nav-list{
+    display: flex;
+    list-style-type: none;
+}
+.list-type{
+margin: 20px;
+}
+
+.Rest-logo{
+    height: 100px;
+    width:180px;
+}
+
+.Res-con{
+    border: 2px solid black;
+    padding:20px;
+    margin: 20px;
+    height:350px;
+    width:200px;
+}
+
+.Body{
+    display: flex;
+    flex-wrap: wrap;
+}
